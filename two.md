@@ -2,4 +2,4 @@
 
 This is page two
 
-link back to [home](https://tedbergeron.github.io/dynamic)
+link back to [home](https://tedbergeron.github.io/pub)
